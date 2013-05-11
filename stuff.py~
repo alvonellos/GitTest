@@ -1,0 +1,5 @@
+def hello(parameter):
+	print "this is going to bomb"
+
+print "whatever you want to say"
+
